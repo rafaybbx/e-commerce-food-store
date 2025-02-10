@@ -2,6 +2,11 @@
 
 A full-featured e-commerce platform built for food/grocery stores using Laravel, offering both customer-facing shopping experience and admin management capabilities.  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffa02980-f851-4f46-be6b-30e5db159cbf" alt="Fruit-kha GIF">
+</p>
+
+
 ## Features  
 
 ### Customer Features  
@@ -48,8 +53,7 @@ A full-featured e-commerce platform built for food/grocery stores using Laravel,
 
 ### 1. Clone the repository  
 ```bash  
-git clone [your-repository-url]  
-cd [project-directory]  
+git clone https://github.com/rafaybbx/e-commerce-food-store.git   
 ```
 ### 2. Install PHP dependencies  
 ```bash  
